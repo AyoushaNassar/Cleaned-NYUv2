@@ -4,4 +4,4 @@ The NYU-Depth V2 dataset is comprised of video sequences from a variety of indoo
 
 ## Download the data
 
-* [Image URL](https://drive.google.com/file/d/1QBBr6O5bkh2inY21rbY9WXCHpFdBw0b0/view?usp=share_link) (130MB)
+* [Dataset URL](https://drive.google.com/file/d/1QBBr6O5bkh2inY21rbY9WXCHpFdBw0b0/view?usp=share_link) (130MB)
